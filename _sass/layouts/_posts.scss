@@ -46,4 +46,7 @@ header {
   .post-content {
     @extend %padding-regular;
   }
+    .one-line {
+        font-size: 25px;
+    } 
 }
