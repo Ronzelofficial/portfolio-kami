@@ -1,0 +1,8 @@
+---
+layout: post
+title: My first roadblock
+feature-img: "img/sample_feature_img.png"
+---
+
+
+For my music streaming application I ran into my first pesky roadblock when building my playerbar. This player bar was meant to have multiple functions. From switching songs, to adjusting volume, and play/pause abilities. However, I was stuck trying to get my next and previous song functionality to actually work. After staring at my code and going in circles trying to figure out what the issue was I remembered one of my greatest tools. Console.log. Although the underlying issue was simple, and easy to fix, this was my first real experience having to debug. I was passing an index value into a function that was responsible for triggering a next song function. I used console.log on the index value and found that it was not passing in the value that I wanted it to. Although it was an easy fix, this got my feet wet in using console.log to find a small bug that breaks entire aspects of the application. Furthermore, I began to understand how different functions and aspects of an application can come together for better or   for worse. Problem solving goes much deeper than just one console.log. Coding and developing is about a fluid movement of logical statements to build a cohesive train of thoughts. Therefore, problem solving means you have to trace back through multiple ideas of logic to pinpoint where something may have gone wrong. Between lines of logic, especially when there are variables being passed into multiple functions. Using console.log one can see exactly what your code is saying at the end of each line of logic. Therefore, when there are many lines of logic building one cohesive part, console.logs become your best friend. 

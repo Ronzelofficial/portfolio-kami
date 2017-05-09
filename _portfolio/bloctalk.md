@@ -19,7 +19,7 @@ short-description: BlocJams for iOS is awesome!
 
 <h1>Solution</h1>
     <p>The solution to this is a combination of the correct configuration in firebasae and javascript code that reaches out and grabs the messages and then displayes it. Similar to the send message functionality.
-    <div><img src="/Assets/messages.pdf"></div>
+    <div><img src="site/Assets/messages.pdf"></div>
     </p>
 
 <h1>Results</h1>
